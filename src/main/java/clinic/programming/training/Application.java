@@ -1,3 +1,5 @@
+package clinic.programming.training;
+
 import java.util.ArrayList;
 import java.util.List;
 
